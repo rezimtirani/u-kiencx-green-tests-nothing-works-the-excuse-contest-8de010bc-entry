@@ -1,2 +1,7 @@
-# u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc-entry
-Green Tests, Nothing Works: The Excuse Contest — entry for make.fun bounty
+# Green Tests, Nothing Works: The Excuse Contest — make.fun entry
+
+[![make.fun · u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc](https://make.fun/badge/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc.svg)](https://make.fun/bounty/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc)
+[![rank](https://make.fun/badge/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc/rezimtirani/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc-entry/rank.svg)](https://make.fun/bounty/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc)
+[![reward](https://make.fun/badge/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc/rezimtirani/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc-entry/reward.svg)](https://make.fun/bounty/u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-green-tests-nothing-works-the-excuse-contest-8de010bc)
+
+One line, one excuse: every test in the suite is green, the app still crashes the moment anyone logs in — and the defence is that no test ever logs in, so officially nothing failed. The entry program writes that single line to `entry.txt`, validated against the sealed 140-character gate from the kit's RULES.txt.
